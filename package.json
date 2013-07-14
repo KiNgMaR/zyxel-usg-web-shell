@@ -1,0 +1,11 @@
+{ "name": "zyxel-usg-web-shell",
+  "version": "0.1",
+  "author": "Ingmar Runge <ingmar@irsoft.de>",
+  "description": "Module that allows communication with ZyXEL's USG series firewalls",
+  "main": "./lib/Client",
+  "engines": { "node": ">=0.9.0" },
+  "dependencies": {
+  },
+  "licenses": [ { "type": "MIT", "url": "http://github.com/KiNgMaR/zyxel-usg-web-shell/raw/master/LICENSE" } ],
+  "repository" : { "type": "git", "url": "http://github.com/KiNgMaR/zyxel-usg-web-shell.git" }
+}
